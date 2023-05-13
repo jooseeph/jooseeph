@@ -5,8 +5,9 @@ to deliver exceptional customer experiences & a 4 year Information Technology
 degree. Adept at contributing to a highly collaborative work environment, finding
 solutions and determining customer satisfaction.
 
-## Languages and Tools: <img width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooseeph&theme=codeSTACKr&show_icons=true)
+## Languages and Tools: <img width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /> 
+
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
