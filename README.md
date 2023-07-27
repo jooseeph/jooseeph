@@ -4,9 +4,6 @@ Front-End Developer with experience of working with React, JavaScript, HTML/CSS
 to deliver exceptional customer experiences & a 4 year Information Technology
 degree. Adept at contributing to a highly collaborative work environment, finding
 solutions and determining customer satisfaction.
-
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooseeph&theme=codeSTACKr&show_icons=true)
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooseeph&hide_progress=false)](https://github.com/jooseeph/github-readme-stats)
 ## Languages and Tools: <img width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /> 
 
 
